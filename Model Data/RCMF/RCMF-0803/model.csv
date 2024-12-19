@@ -1,0 +1,2 @@
+id,name,dimension,num_stories,framing_system_1,framing_system_2,year,ie,design_drift,lat,lng,site_class,vs30,sds,sd1,dim_1_ft,dim_2_ft,num_bays,num_bays_lfrs,story_ht_first,story_ht_others,foundation,primary_node_offset,design_sheet_dir,design_sheet_name,T1_x
+m108v3,8story_ie150,2D,8,C1a,C1a,2020,1.5,0.02,34.05,-118.25,C,537,1,0.6,120,120,6,6,15,13,1,0,C:\Users\dtc2\OneDrive - NIST\NIST\Cost Benefit Study\Design\RCMF - Cook,8Story_RCMF_ie150_Opensees,1.38937299273783
